@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_%20Developer-Portfolio-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="Developer Logo" />
+  <img src="https://img.shields.io/badge/👨‍💻_%20Developer-Mohammed?style=for-the-badge&logo=appveyor&logoColor=white" alt="Developer Logo" />
 </p>
 
 ## Hi there 👋, I'm a Developer!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laptop221129-coder&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 🛠️ Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,node,html,docker,python,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
