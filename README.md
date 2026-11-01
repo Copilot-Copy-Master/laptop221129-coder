@@ -34,7 +34,7 @@
 
 ### 🛠️ Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,html,docker,python,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,node,html,docker,python,git,github,vscode,git,mongodb,css3" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
@@ -56,11 +56,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=laptop221129&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-stats.pinia.io/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord" alt="GitHub Stats" />
+  <img src="https://readme-stats.pinia.io/api?username=laptop221129&show_icons=true&theme=nord" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MohammedDev-yt">
+  <a href="https://github.com/laptop221129-coder">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=45&lines=💻+Developer+Logo;⚡+Full-Stack+Coder;🚀+Python+%26+Web+Dev" alt="Developer Logo Typing SVG" />
   </a>
 </p>
