@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Developer Coding" width="600" />
+</p>
 
-<!--
-**laptop221129-coder/laptop221129-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/👨‍💻_%20Developer-Portfolio-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="Developer Logo" />
+</p>
 
-Here are some ideas to get you started:
+## Hi there 👋, I'm a Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 🛠️ Tech Stack:
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,git,github,vscode" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Hello+World!+👋;I+build+things+for+the+web.;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
